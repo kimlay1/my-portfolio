@@ -4,7 +4,7 @@ const projects = [
     {
         title:"Money Detection using YOLO",
         description: "A computer vision based project that trains YOLOv12x model to detect and count KHMER RIELs and US Dollars. The model is then trained and uploaded to huggingface for deployment",
-        image: "/projects/1.jpg",
+        image: "projects/1.jpg",
         tags: ["AI", "Python", "Streamlit"],
         link:"https://huggingface.co/spaces/kimlay1/yolo11s-khmer-money-identification"
     },
@@ -12,7 +12,7 @@ const projects = [
     {
         title:"Spam SMS Detection",
         description: "This AI model can read messages and classify whether the message is a spam or not. DistilBERT is trained on 50k messages, then deployed to huggingface.",
-        image: "/projects/2.png",
+        image: "projects/2.png",
         tags: ["AI", "Python", "Streamlit"],
         link:"https://huggingface.co/spaces/kimlay1/spam-classifier-app"
     },
@@ -20,7 +20,7 @@ const projects = [
     {
         title:"Goalify",
         description:"A football match tracking site that allows users to track when their favorite teams are playing.",
-        image: "/projects/3.jpg",
+        image: "projects/3.jpg",
         tags: ["Javascript", "Tailwind", "Vite", "HTML",],
         link:"https://github.com/kimlay1/goalify"
     },
@@ -28,7 +28,7 @@ const projects = [
     {
         title:"Gemini Chatbot",
         description:"A chatbot that connects with Gemini's API to let users chat with the LLM.",
-        image: "/projects/4.jpg",
+        image: "projects/4.jpg",
         tags: ["AI", "Python", "API",],
         link:"https://github.com/kimlay1/ai-chatbot-app"
     }
